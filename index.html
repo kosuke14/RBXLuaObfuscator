@@ -7,14 +7,14 @@
     <script type="text/javascript">
       window.onload = function() {
         var script = document.createElement("script");
-        script.src = "main.js";
+        script.src = "mainjs.js";
         script.type = "text/javascript";
         document.head.appendChild(script);
       }
     </script>
     <script src="lua.vm.js"></script>
     <script type="text/lua">
-      require "main"
+      require "mainlua"
 			init()
     </script>
   </head>
