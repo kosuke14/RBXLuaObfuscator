@@ -1,6 +1,6 @@
 document.body.innerHTML =
     '<div>'
-  +   '<h1>RBXLua Obfuscator</h1>'
+  +   '<h1>RBXLua Obfuscator (Web version is WIP)</h1>'
   + '</div>'
   + '<div class="box-js-lua-code">'
   +   '<textarea id="js_lua_code" placeholder="Paste and Ctrl + Enter to obfuscate"></textarea>'
