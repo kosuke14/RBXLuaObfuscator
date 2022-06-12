@@ -1,6 +1,6 @@
 local window = js.global
 local document = window.document
-local src = require("src/main")
+local src = require("obfuscator")
 local ui = {js_lua_code = nil, js_lua_ob = nil}
 
 function init()
