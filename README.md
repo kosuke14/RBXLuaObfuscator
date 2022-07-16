@@ -1,5 +1,5 @@
 # RBXLuaObfuscator
-RBXLua / Roblox / Lua 5.1 / LuaU Obfuscator (no loadstring)
+RBXLua / Roblox / Lua 5.1 (requires bit module to run) / LuaU Obfuscator (no loadstring)
 ## Usage
 1. Download `obfuscator.lua`.
 2. Require it as a lua module.
