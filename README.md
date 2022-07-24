@@ -1,4 +1,5 @@
 # RBXLuaObfuscator
+I recommended to use [Lua Bytecode Obfuscator](https://github.com/kosuke14/ByteLuaObfuscator), this obfuscator is too easy to read by using `print`. <br>
 RBXLua / Roblox / Lua 5.1 (requires bit module to run) / LuaU Obfuscator (no loadstring)
 ## Usage
 1. Download `obfuscator.lua`.
